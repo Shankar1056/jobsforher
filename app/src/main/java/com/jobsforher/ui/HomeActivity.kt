@@ -69,7 +69,7 @@ class HomeActivity : AppCompatActivity() {
                 } else {
                     Toast.makeText(
                         baseContext,
-                        getString(R.string.msg_subscribed),
+                        getString(R.string.msg_unsubscribed),
                         Toast.LENGTH_SHORT
                     ).show()
 
