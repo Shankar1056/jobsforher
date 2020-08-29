@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "496812226178",
+    "firebase_url": "https://jobsforher-3b4f9.firebaseio.com",
+    "project_id": "jobsforher-3b4f9",
+    "storage_bucket": "jobsforher-3b4f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496812226178:android:766e6ab3c3674948b4269b",
+        "android_client_info": {
+          "package_name": "com.jobsforher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496812226178-gnqd6o67kcoju80d8jjdrf8ci4f0u6jt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD63cgsxf3fXbmoVCRjGvtKxMLdcSPJJ_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496812226178-gnqd6o67kcoju80d8jjdrf8ci4f0u6jt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
